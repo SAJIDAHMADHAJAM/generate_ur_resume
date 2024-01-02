@@ -115,7 +115,7 @@ const ResumePreview = () => {
                         {degree ? degree : "B.Tech Computer Engineering"}
                       </Text>
                       <Text fontSize={"sm"}>
-                        {school ? school : "College of Engineering Pune"}
+                        {school ? school : "NIET Greater Noida India"}
                       </Text>
                       <HStack
                         fontSize={"xs"}
@@ -124,7 +124,7 @@ const ResumePreview = () => {
                         w={"full"}
                       >
                         <Text>
-                          {startYr ? startYr : 2014} - {endYr ? endYr : 2018}
+                          {startYr ? startYr : 2020} - {endYr ? endYr : 2024}
                         </Text>
                         <Text>{grade ? grade : "8.7 CGPA"}</Text>
                       </HStack>
@@ -163,7 +163,7 @@ const ResumePreview = () => {
                         {type ? type : "Full-time"}
                       </Text>
                       <Text fontSize={"xs"} fontStyle={"italic"}>
-                        {startDate ? startDate : "2018-03"} -{" "}
+                        {startDate ? startDate : "2021-03"} -{" "}
                         {endDate ? endDate : "2021-12"}
                       </Text>
                       <Text fontSize={"sm"} as="p">
