@@ -26,7 +26,7 @@ const Footer = () => {
 
                 <Stack direction={{ base: 'column', md: 'row' }} fontWeight={'medium'}>
                     <Text>&copy; 2024 Generate_ur_Resume. Designed By</Text>
-                    <Text as={'a'} href={'https://www.linkedin.com/in/sajid6005khu/'} target={'_blank'} color={'blue.600'}>JSAJID AHMAD HAJAM</Text>
+                    <Text as={'a'} href={'https://www.linkedin.com/in/sajid6005khu/'} target={'_blank'} color={'blue.600'}>SAJID AHMAD HAJAM</Text>
                 </Stack>
 
 
